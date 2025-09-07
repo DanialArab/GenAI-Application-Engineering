@@ -26,3 +26,19 @@ Three main skills:
 
 ### 2. AI-assisted coding
 
+Vibe coding is a software development trend where developers guide an AI by providing natural language prompts to generate, refine, and debug code, rather than writing it line-by-line. Coined by AI researcher Andrej Karpathy in early 2025, this AI-assisted approach focuses on collaboration and experimentation, allowing the developer to focus on the overall goal of the project while the AI handles the coding tasks. It's characterized by an iterative, conversational process, where developers provide feedback and goals to the LLM and accept AI-suggested completions to build applications.  
+
+- Github Copilot
+- AI-enabled IDEs such as Cursor and Windsurf offered much better code-QA and code generation.
+- Now we have highly agentic coding assistants such as OpenAI’s Codex and Anthropic’s Claude Code (which I really enjoy using and find impressive in its ability to write code, test, and debug autonomously for many iterations).
+- Warp (outperformed Claude recently)
+
+
+Warp:
+from Travis (https://www.youtube.com/watch?v=2uMpOK3tsfA)
+- Prompt library from his last video he mentioned
+Gett started with Warp:
+- Indexing
+- Context
+- Prompt library
+- 
