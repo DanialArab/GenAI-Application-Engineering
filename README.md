@@ -33,12 +33,7 @@ Vibe coding is a software development trend where developers guide an AI by prov
 - Now we have highly agentic coding assistants such as OpenAI’s Codex and Anthropic’s Claude Code (which I really enjoy using and find impressive in its ability to write code, test, and debug autonomously for many iterations).
 - Warp (outperformed Claude recently)
 
+### 3. Bonus: Product skills
 
-Warp:
-from Travis (https://www.youtube.com/watch?v=2uMpOK3tsfA)
-- Prompt library from his last video he mentioned
-Gett started with Warp:
-- Indexing
-- Context
-- Prompt library
-- 
+I see teams move much faster if GenAI Engineers also have some user empathy as well at basic skill at designing products, so that, given only high-level guidance on what to build (“a user interface that lets users see their profiles and change their passwords”), they can make a lot of decisions themselves and build at least a prototype to iterate from.
+
