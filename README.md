@@ -1,7 +1,5 @@
 # GenAI-Application-Engineering
 
-https://www.deeplearning.ai/the-batch/meet-the-new-breed-of-genai-application-engineers/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz--JA1f5SaRw7rpmhMZL9yJQ9HZ_8O3rZGgfkfyhbogghHGn3Vs81AZwypV6XW3lqdAIbXk5H5gBlQOOBUHGNF6sbxpkiA&_hsmi=378898844&utm_content=378896101&utm_source=hs_email
-
 Three main skills:
 
 ### 1. AI building blocks.
@@ -37,3 +35,4 @@ Vibe coding is a software development trend where developers guide an AI by prov
 
 I see teams move much faster if GenAI Engineers also have some user empathy as well at basic skill at designing products, so that, given only high-level guidance on what to build (“a user interface that lets users see their profiles and change their passwords”), they can make a lot of decisions themselves and build at least a prototype to iterate from.
 
+<a href="https://www.deeplearning.ai/the-batch/meet-the-new-breed-of-genai-application-engineers/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz--JA1f5SaRw7rpmhMZL9yJQ9HZ_8O3rZGgfkfyhbogghHGn3Vs81AZwypV6XW3lqdAIbXk5H5gBlQOOBUHGNF6sbxpkiA&_hsmi=378898844&utm_content=378896101&utm_source=hs_email">The Batch: Meet The New Breed of GenAI Application Engineers</a>
