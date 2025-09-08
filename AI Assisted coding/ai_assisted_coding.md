@@ -9,10 +9,9 @@ WARP Pros:
 - Context, Warp has a mediate context to my specific project, i can do this through indexing either at the beginning or using /index command
 - Task lists and Diffs
 - Prompt suggestion, I can activate it through settings -> AI -> Activate AI-> Prompt suggestion. Also, I can activate 'next command' in the settings 
-- WARP has a Prompt library. 
+- WARP has a Prompt library, where I can save my favorite prompts 
+- WARP allows me access to different LLMs
+- WARP has voice dictation, allowing speaking of thoughts rather than typing 
 
-
-- Prompt library
-- 
 
 <a href="https://www.youtube.com/watch?v=2uMpOK3tsfA">Travis: Claude Code ISN'T the Standard Anymore (Warp Code is here)</a>
