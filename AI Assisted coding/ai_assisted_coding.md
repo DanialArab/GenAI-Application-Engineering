@@ -8,7 +8,8 @@ WARP Pros:
 - IDE Compatibility
 - Context, Warp has a mediate context to my specific project, i can do this through indexing either at the beginning or using /index command
 - Task lists and Diffs
-- Prompt library from his last video he mentioned
+- Prompt suggestion, I can activate it through settings -> AI -> Activate AI-> Prompt suggestion. Also, I can activate 'next command' in the settings 
+- WARP has a Prompt library. 
 
 
 - Prompt library
