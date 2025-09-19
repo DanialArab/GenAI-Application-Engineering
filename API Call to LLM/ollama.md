@@ -23,17 +23,17 @@ I got
 
 Ultimately, I only use the response text in my application, but it is good to see how we can build robust applications given everything else that the model provided like:
 
-- model
-- response
-- done
-- done_reason
-- context
-- total_duration
-- load_duration
-- prompt_eval_count
-- prompt_eval_duration
-- eval_count
-- eval_duration
+      - model
+      - response
+      - done
+      - done_reason
+      - context
+      - total_duration
+      - load_duration
+      - prompt_eval_count
+      - prompt_eval_duration
+      - eval_count
+      - eval_duration
 
 
 - Building an App  that uses an Ollama LLM
