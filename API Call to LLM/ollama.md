@@ -12,7 +12,7 @@ to put Ollama into server mode, I can simply issue the following command:
 
 this will run ollama server on port 11434 by default, so I can hit it and ask it to do inference with a curl command to test it:
 
-            !curl http://localhost:11434/api/generate -d "{\"model\": \"gemma3:1b\", \"prompt\": \"Why is the sky blue?\", \"stream\": false}"
+            !curl -s http://localhost:11434/api/generate -d "{\"model\": \"gemma3:1b\", \"prompt\": \"Why is the sky blue?\", \"stream\": false}"
 
 I got
 
