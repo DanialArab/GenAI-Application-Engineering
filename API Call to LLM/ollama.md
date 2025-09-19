@@ -4,6 +4,12 @@
 - Ollama, at its core, is an open-source project that simplifies the process of downloading, running, and managing LLMs on my computer. It also handles non-functional difficult requirements such as memory management and model optimization, and it provides standardized interfaces for interaction, such as the ability to HTTP POST to my models.
 - By running models locally, I can ensure the complete privacy of my data, eliminating network latency, and work offline. This is especially crucial in scenarios involving sensitive data or applications that require consistent, low-latency responses.
 - Each model can be pulled and run with simple commands in a way that is similar to how Docker containers work. The platform handles model quantizations automatically, optimizing models to run efficiently on consumer hardware while maintaining good performance.
-- Running Ollama as a server:
+- **Running Ollama as a server:**
+
+to put Ollama into server mode, I can simply issue the following command:
+
+      ollama server
+
+
   
 
