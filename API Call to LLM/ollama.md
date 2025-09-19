@@ -34,5 +34,6 @@ Ultimately, I only use the response text in my application, but it is good to se
 - eval_duration
 
 
-
+- Building an App  that uses an Ollama LLM
+  
 
